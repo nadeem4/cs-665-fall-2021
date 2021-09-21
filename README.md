@@ -1,4 +1,4 @@
-# Fall 2021 - Examples used in class...
+# Fall 2021 - Examples used in class
 
 
 ### Creational Patterns
